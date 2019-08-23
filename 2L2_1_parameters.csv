@@ -1,8 +1,2 @@
-alpha,0.2
-beta,1.5
-gamma,2.0
-etac,0.1
-J,1.2
-S,0.0
-taua,1
-etag,0.5
+alpha,beta,gamma,etac,J,S,taua,etag
+0.2,1.5,2.0,0.1,1.2,0.0,1,0.5
